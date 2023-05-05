@@ -1,0 +1,3 @@
+mariam :20
+sara:55
+hello 1000
