@@ -1,0 +1,4 @@
+MYSQLHOST="localhost:8000"
+MYSQLUSER="root"
+MYSQLPASS="12345"
+MYSQLDB="day3"
